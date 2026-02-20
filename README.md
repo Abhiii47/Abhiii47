@@ -28,7 +28,6 @@
 ## ⚡ About Me
 
 - 🎓 **BTech Computer Engineering** — Full-Stack Dev, Data Science & AI/ML
-- 🔭 Currently building **AI project (RASEED)**
 - 🌱 Deep diving into **TensorFlow, LLMs, RAG & Agentic AI**
 - 🏆 **Open Source Contributor** — PRs merged in **TensorFlow**, **MLflow** & more
 - 🤖 Working with **OpenAI, Gemini, Claude, LangChain & FastAPI**
