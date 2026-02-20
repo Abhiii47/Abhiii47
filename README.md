@@ -1,34 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijeet%20Kadu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=52" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:FF6C37&height=200&section=header&text=Abhijeet%20Kadu&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20•%20AI/ML%20Engineer%20•%20Open%20Source%20Contributor&descSize=18&descAlignY=55&descColor=C9D1D9" alt="header" width="100%" />
 
-# Hi 👋, I'm Abhijeet Kadu
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Open+Source+Contributor+%40+TensorFlow+%26+MLflow;BTech+Computer+Engineering+Student+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+%26+AI+Solutions" alt="Typing SVG" /></a>
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=%F0%9F%94%A5+Building+AI+Systems+%7C+Shipping+to+Production;%F0%9F%9A%80+TensorFlow+%26+MLflow+Open+Source+Contributor;%F0%9F%A4%96+OpenAI+%7C+Gemini+%7C+Claude+%7C+LangChain+Builder;%E2%9A%A1+Full-Stack+Dev+%7C+React+%7C+Node+%7C+FastAPI" alt="Typing SVG" /></a>
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeet-portfolio-tau.vercel.app/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeet-portfolio-tau.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-kadu)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetkadu85@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhiii47)
 
 </div>
 
----
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## ⚡ About Me
 
-- 🎓 **BTech Computer Engineering** student with a strong foundation in full-stack development, data science & AI/ML
-- 🔭 Currently working on **AI project (RASEED)**
-- 🌱 Currently learning **TensorFlow, Machine Learning & Deep Learning**
-- 🏆 **Open Source Contributor** — Merged PRs in **TensorFlow**, **MLflow** & **OpenLightingProject**
-- 🤖 Passionate about **AI/ML, Full-Stack Development & Scalable Systems**
+- 🎓 **BTech Computer Engineering** — Full-Stack Dev, Data Science & AI/ML
+- 🔭 Currently building **AI project (RASEED)**
+- 🌱 Deep diving into **TensorFlow, LLMs, RAG & Agentic AI**
+- 🏆 **Open Source Contributor** — PRs merged in **TensorFlow**, **MLflow** & more
+- 🤖 Working with **OpenAI, Gemini, Claude, LangChain & FastAPI**
+- 🚀 Passionate about **building scalable AI-powered systems**
 - 📫 Reach me at **abhijeetkadu85@gmail.com**
+
+<br clear="both"/>
 
 ---
 
 ## 🏆 Open Source Contributions
+
+<div align="center">
 
 <table>
 <tr>
@@ -72,6 +85,8 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -81,34 +96,52 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🤖 AI / ML / LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🚀 Frameworks & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### 🧰 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
@@ -124,7 +157,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiii47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiii47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" width="42%" />
 
 </div>
 
@@ -152,10 +185,18 @@
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiii47&theme=tokyonight" alt="Profile Summary" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Abhiii47&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-⭐ **From [Abhiii47](https://github.com/Abhiii47)** — *If you like my work, consider giving a star!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:FF6C37&height=100&section=footer" width="100%" />
 
 </div>
