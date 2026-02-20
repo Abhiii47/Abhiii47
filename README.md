@@ -163,23 +163,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiii47&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6C37&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiii47&theme=tokyonight" alt="Profile Summary" width="90%" />
-
-</div>
-
----
 
 <div align="center">
 
