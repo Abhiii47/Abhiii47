@@ -163,16 +163,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhiii47&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
